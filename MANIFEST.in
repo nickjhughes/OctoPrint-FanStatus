@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_fanstatus/templates *
+recursive-include octoprint_fanstatus/translations *
+recursive-include octoprint_fanstatus/static *
